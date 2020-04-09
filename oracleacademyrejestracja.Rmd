@@ -1,0 +1,97 @@
+---
+title: "Instrukcja rejestracji w programie Oracle Academy dla pracowników Akademii Leona Koźmińskiego"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+author: "Piotr Zegadło"
+date: "2020-04-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Niniejsza instrukcja prezentuje sposób rejestracji kont pracowników Akademii Leona Koźmińskiego na platformie Oracle Academy.
+
+### Stworzenie ogólnego konta Oracle
+
+1. Wchodzimy na stronę: <https://academy.oracle.com/>.
+
+2. Klikamy `Sign In/Register for Account`.
+
+![](1.png)
+
+3. Wybieramy `Join Today` w sekcji `Join Oracle Academy`.
+
+![](2.png)
+
+4. W ramach `Step 1` wybieramy `I Do Not Have...` i w rozwijącym się menu dalej `Create Your Oracle Account...`.
+
+![](3.png)
+
+5. Uzupełniamy długi zestaw pól. Oczywiście możemy podać adres i telefon uczelni. Adres emailowy **MUSI** być w domenie @kozminski.edu.pl. Nazwę uczelni podajemy jako `Akademia Leona Koźmińskiego`, a nie `Kozminski University`.
+
+![](4.png)
+
+6. Powinniśmy dostać prośbę o zweryfikowanie adresu email poprzez kliknięcie linku w wysłanej na nasz adres wiadomości.
+
+![](5.png)
+
+7. Po kliknięciu w link dostajemy wiadomość, że nasze konto jest gotowe do użycia.
+
+![](6.png)
+
+8. Wybranie opcji `Continue` może przekierować nas do dalszego ciągu zgłoszenia do Oracle Academy albo na główną stronę Oracle. Jeśli trafiliśmy na stronę `Membership Registration and Ordering` w Oracle Academy, **możemy pominąć punkty 9-11 niniejszej instrukcji**.
+
+### Wniosek o konto Oracle Academy
+
+9. Jeśli po potwierdzeniu konta trafiliśmy na główną stronę Oracle, powróćmy na podstronę Join Oracle Academy, która nadal powinna być otwarta w naszej przeglądarce.
+
+10. Teraz możemy już wybrać `I Already Have an Oracle Account` i w rozwijanym menu `Sign In to Your Account...`.
+
+![](7.png)
+
+11. Na nowym ekranie logowania musimy wprowadzić dane naszego konta Oracle.
+
+![](8.png)
+
+12. Na stronie `Membership Registration and Ordering` wybieramy `Register My Institution` w sekcji `Institutional Membership`.
+
+![](9.png)
+
+13. W wyszukiwarkę instytucji wpisujemy `Akademia Leona Koźmińskiego` i zatwierdzamy wyszukiwanie.
+
+![](10.png)
+
+14. Po poprawnym wyszukaniu klikamy na nazwę uczelni.
+
+![](11.png)
+
+15. W formularzu `Contact Information` znów wpisujemy długą listę danych na swój temat. Ważne, by wybrać `Faculty` w `Job Title`.
+
+16. Zaznaczamy zgodę w okienku przy `I will abide...`.
+
+![](12.png)
+
+17. Sprawdzamy poprawność danych w formularzu `Review and Summary`.
+
+![](13.png)
+
+18. Gratulacje! Aplikacja przesłana. Do 48 godzin powinno przyjść potwierdzenie rejestracji.
+
+### Dostęp do iLearning i Cloud
+
+19. Dostęp do pełnych zasobów Oracle Academy wymaga jeszcze wystąpienia o dostęp do platformy iLearning z materiałami, które można udostępniać studentom. Przyda się też dostęp do chmury.
+
+20. W zakładce `Curriculum` wybieramy opcję `iLearning`, a potem z prawej strony `Request iLearning Account`.
+
+![](15.png)
+
+21. W zakładce `Cloud` wybieramy `Oracle Academy Cloud Program` i klikamy `Request Oracle Academy Cloud Program Accounts`.
+
+![](16.png)
+
+22. Czekamy na przyznanie dostępów - i gotowe.
